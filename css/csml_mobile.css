@@ -7,17 +7,17 @@ screen {
   background-color: #252726; 
   color: #BCF51C;
 
-  padding-left: 6px;
-  padding-right: 6px;
-  padding-top: 6px;
-  padding-top: 6px;
+  padding-left: 128px;
+  padding-right: 128px;
+  padding-top: 128px;
+  padding-top: 128px;
 }
 
 container {
-  padding-left: 64px;
-  padding-right: 64px;
-  padding-top: 64px;
-  padding-top: 64px;
+  padding-left: 256px;
+  padding-right: 256px;
+  padding-top: 256px;
+  padding-top: 256px;
 }
 
 connection {
@@ -34,8 +34,8 @@ description {
   display: block;
   text-align: center;
 
-  padding-left: 512px;
-  padding-right: 512px;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
 technical_description {

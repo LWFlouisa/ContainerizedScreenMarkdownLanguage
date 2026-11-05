@@ -1,0 +1,65 @@
+body {
+  background-color: #1C1D1C;
+  border: #BCF51C;
+}
+
+screen {
+  background-color: #252726; 
+  color: #BCF51C;
+
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 6px;
+  padding-top: 6px;
+}
+
+container {
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 64px;
+  padding-top: 64px;
+}
+
+connection {
+  color: #BCF51C;
+  display: block;
+
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+description {
+  color: #BCF51C;
+
+  display: block;
+  text-align: center;
+
+  padding-left: 512px;
+  padding-right: 512px;
+}
+
+technical_description {
+  background-color: #252726; 
+  color: #BCF51C;
+
+  display: block;
+}
+
+laymans {
+  background-color: #252726; 
+  color: #25FC24;
+
+  display: block;
+}
+
+author_note {
+  background-color: #252726;
+  color: #BCF51C;
+}
+
+cauthor_note {
+  background-color: #252726;
+  color: #BCF51C;
+
+  display: block;
+}
